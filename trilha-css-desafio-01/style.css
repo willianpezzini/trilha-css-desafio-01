@@ -1,0 +1,232 @@
+
+
+html {
+    margin: 0px,;
+    background-image:linear-gradient(#395764 0%, #5e5c5c 60%)
+    
+}
+.banner-content{
+    width: 510px;
+    height: 393px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 30px;
+}
+
+.banner {
+    width: 1440;
+    height: 605;
+    border: 3px;
+    border-color: #f31010;
+    text-align: center;
+    background-image: url(assets/images/banner.png);
+    background-size: cover;
+    border: 0px, 0px, 2px, 0px;
+    padding: 10px;
+}
+
+
+button {
+    width: 326px;
+    height: 57px;
+    top: 473px;
+    left: 557px;
+    padding: 19px, 91px, 19px, 91px;
+    background-color:rgba(18, 146, 201, 0.0);
+    border-color: #33a8db;
+    border: 2px solid;
+    color: #33a8db;
+    font-size: 16px;
+}
+
+
+.banner h1{
+    color: rgba(51, 168, 219, 1);
+    margin-top: 50px;
+    text-transform: uppercase;
+}
+
+.banner p {
+    color: #fff;
+    font-size: 20px;
+}
+
+
+.logo {
+    width: 248px;
+    height: auto;
+    top: 27px;
+    left: auto;
+    bottom: 30px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    position: relative;
+}
+
+#sombra {
+    width: 248px;
+    height: 214px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+}
+
+
+
+main {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    position: relative;
+}
+
+#course-content{
+    width: Hug (792px)px;
+    height: Hug (325px)px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    top: 723px;
+    left: 324px;
+    gap: 24px;
+    opacity: 0px;
+    padding-bottom: 40px;
+    border-top: 1px solid rgba(51, 168, 219, 1)
+
+}
+#course-content h2 {
+    width: 477px;
+    height: 38px;
+    font-size: 32px;
+    color: rgba(51, 168, 219, 1);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-transform: uppercase;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+#course-content p {
+    width: 792px;
+    height: 38px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.78px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgba(255, 255, 255, 1);
+}
+
+.module {
+    width: 400px;
+    height: 20px;
+    padding: 16px 127px 16px 127px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 57px;
+    border: 1px 0px 0px 0px;
+    box-shadow: -2px 6px 4px 0px rgba(0, 0, 0, 0.4) inset;
+    border: 1px solid rgba(51, 168, 219, 1);
+    color: rgba(255, 255, 255, 1);
+    font-size: 16px;
+    text-align: center;
+    background-color:rgba(94, 92, 92, 1)
+}
+
+.module span {
+    font-size: 16px;
+    color: rgba(51, 168, 219, 1);
+
+}
+
+#transform-world {
+    width: 100vw;
+    height: 400px;
+    border: 1px 1px 1px 0px;
+    opacity: 0px;
+    background-image: url(assets/images/woman-code.png);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+#transform-world p {
+    width: 244px;
+    height: 141;
+    font-size: 40px;
+    color: rgba(255, 255, 255, 1);
+    margin-left: 200px;
+    padding-top: 100px;
+    text-transform: lowercase;
+    opacity: 100%;
+
+}
+
+#professional-challenges h2 {
+    text-align: center;
+    font-size: 32px;
+    color: rgba(51, 168, 219, 1);
+    text-transform: uppercase;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+
+#professional-challenges p {
+    width: 900px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    text-align: center;
+    font-size: 16px;
+    color: rgba(255, 255, 255, 1);
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+footer {
+    width: 100vw;
+    height: 170px;
+    border-top: 1px solid rgba(51, 168, 219, 1)
+}
+
+.dio-logo {
+    width: 310px;
+    height: 44px;
+    margin-top: 59px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    display: flex;
+}
+
+footer p {
+    width: 259px;
+    height: 19px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 16px;
+    
+}
+
+footer a {
+    width: 700;
+    font-size: 16px;
+    text-align: center;
+    color: rgba(51, 168, 219, 1);
+    text-decoration: none;
+}
